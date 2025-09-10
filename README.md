@@ -2,17 +2,11 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e4d9dc3f-afde-4cac-82b5-534878c87548
+**URL**: https://connectintern-97a9kuq9w-vanshajrawat6981s-projects.vercel.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/e4d9dc3f-afde-4cac-82b5-534878c87548) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -59,13 +53,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/e4d9dc3f-afde-4cac-82b5-534878c87548) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
